@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2016 Prof. Frank Petzold, Stefan Kaufmann, Thomas Oberbichler Technische Universität München
+Copyright (c) 2016 Prof. Frank Petzold, Stefan Kaufmann, Thomas Oberbichler @Technische Universität München
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
